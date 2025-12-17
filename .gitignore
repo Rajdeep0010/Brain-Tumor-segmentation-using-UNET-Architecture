@@ -1,0 +1,20 @@
+# Virtual environments
+brain_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# ML models (use LFS if needed)
+*.h5
+*.pt
+*.pth
+
